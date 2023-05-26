@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there, I'm Anwar Ali! 👋
 
-<!--
-**xam839/xam839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student at the University of Hafr Al-Batin, passionate about web development and artificial intelligence. I also enjoy working on projects involving Arduino. 
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Website Portfolio
+
+I have developed a personal website that showcases my projects, skills, and experiences. You can check it out [here](https://www.example.com).
+
+### AI Chatbot
+
+I've built an AI chatbot using natural language processing techniques. The chatbot is designed to answer frequently asked questions and provide helpful information. You can find the project repository [here](https://github.com/your-username/ai-chatbot).
+
+### Arduino Smart Home Automation
+
+I've worked on an Arduino-based smart home automation system that allows controlling lights, temperature, and other devices. The project repository can be found [here](https://github.com/your-username/arduino-smart-home).
+
+## Skills
+
+- Web development (HTML, CSS, JavaScript)
+- Python programming
+- Artificial intelligence and machine learning
+- Arduino programming and electronics
+
+## Get in Touch
+
+I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me through the following platforms:
+
+- Email: your-email@example.com
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/anwar-al-ashari-681297247/))
+- Website: [Your Personal Website](https://www.example.com)
+
+Looking forward to connecting with fellow developers and exploring new opportunities!
+
+
