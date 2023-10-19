@@ -4,9 +4,7 @@ I'm a software engineering student at the University of Hafr Al-Batin, passionat
 
 ## Projects
 
-### Website Portfolio
 
-I have developed a personal website that showcases my projects, skills, and experiences. You can check it out [here](https://www.example.com).
 
 ### AI Chatbot
 
@@ -19,7 +17,7 @@ I've worked on an Arduino-based smart home automation system that allows control
 ## Skills
 
 - Web development (HTML, CSS, JavaScript)
-- Python programming
+- Python Programming
 - Artificial intelligence and machine learning
 - Arduino programming and electronics
 
@@ -29,7 +27,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 
 - Email: your-email@example.com
 - LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/anwar-al-ashari-681297247/))
-- Website: [Your Personal Website](https://www.example.com)
+
 
 Looking forward to connecting with fellow developers and exploring new opportunities!
 
