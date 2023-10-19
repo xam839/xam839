@@ -25,7 +25,7 @@ I've worked on an Arduino-based smart home automation system that allows control
 
 I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me through the following platforms:
 
-- Email: your-email@example.com
+- Email: anwaralashari@gmail.com
 - LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/anwar-al-ashari-681297247/))
 
 
