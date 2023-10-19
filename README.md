@@ -2,17 +2,7 @@
 
 I'm a software engineering student at the University of Hafr Al-Batin, passionate about web development and artificial intelligence. I also enjoy working on projects involving Arduino. 
 
-## Projects
 
-
-
-### AI Chatbot
-
-I've built an AI chatbot using natural language processing techniques. The chatbot is designed to answer frequently asked questions and provide helpful information. You can find the project repository [here](https://github.com/your-username/ai-chatbot).
-
-### Arduino Smart Home Automation
-
-I've worked on an Arduino-based smart home automation system that allows controlling lights, temperature, and other devices. The project repository can be found [here](https://github.com/your-username/arduino-smart-home).
 
 ## Skills
 
