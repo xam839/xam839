@@ -16,7 +16,7 @@ I'm a software engineering student at the University of Hafr Al-Batin, passionat
 I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me through the following platforms:
 
 - Email: anwaralashari@gmail.com
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/anwar-al-ashari-681297247/))
+- LinkedIn: [My LinkedIn Profile]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/anwar-al-ashari-681297247/))
 
 
 Looking forward to connecting with fellow developers and exploring new opportunities!
